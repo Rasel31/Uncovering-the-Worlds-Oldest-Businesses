@@ -671,4 +671,28 @@ ORDER BY
 </table>
 </div>
 
+Summary of Key Findings
+
+Oldest Businesses by Continent:
+
+    Africa: Mauritius Post (1772)
+    Asia: Kongō Gumi, Japan (578)
+    Europe: St. Peter Stifts Kulinarium, Austria (803)
+    North America: La Casa de Moneda de México, Mexico (1534)
+    Oceania: Australia Post (1809)
+    South America: Casa Nacional de Moneda, Peru (1565)
+
+Countries Lacking Business Data:
+
+    Africa: 3 countries without business data
+    Asia: 7 countries without business data
+    Europe: 2 countries without business data
+    North America: 5 countries without business data
+    Oceania: 10 countries without business data
+    South America: 3 countries without business data
+
+Business Categories Best Suited for Longevity:
+
+    Categories such as postal services, banking and finance, agriculture, manufacturing, distillers, vintners, and breweries have shown a tendency to endure over centuries.
+
 
